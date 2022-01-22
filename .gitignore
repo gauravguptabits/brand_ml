@@ -1,3 +1,6 @@
 experiments/
 models/
 .ipynb_checkpoints/
+dataset/
+logs/
+sentiments/
